@@ -9,6 +9,7 @@ Celso Zanchetta Junior<br />
 Flavia Bartkevicius Cruz<br />
 Marcelo Augusto de Souza Lopes<br />
 Rodrigo Bonette Klepa<br />
+Thiago Martins Silveira Bueno<br />
 
 ### Tutor:
 Claudionor Alves Da Santa Rosa <br />
